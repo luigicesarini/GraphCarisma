@@ -1,0 +1,1885 @@
+from,to,Type_link
+rec_1,ind_4,Recovery -> Industry
+rec_2,ind_62,Recovery -> Industry
+rec_3,ind_64,Recovery -> Industry
+rec_4,ind_95,Recovery -> Industry
+rec_5,ind_109,Recovery -> Industry
+rec_6,ind_257,Recovery -> Industry
+rec_7,ind_262,Recovery -> Industry
+rec_8,ind_109,Recovery -> Industry
+rec_9,ind_170,Recovery -> Industry
+rec_10,ind_271,Recovery -> Industry
+rec_1,shop_19,Recovery -> Shops
+rec_2,shop_53,Recovery -> Shops
+rec_3,shop_43,Recovery -> Shops
+rec_4,shop_59,Recovery -> Shops
+rec_5,shop_163,Recovery -> Shops
+rec_6,shop_124,Recovery -> Shops
+rec_7,shop_153,Recovery -> Shops
+rec_8,shop_83,Recovery -> Shops
+rec_9,shop_163,Recovery -> Shops
+rec_10,shop_187,Recovery -> Shops
+rec_1,res_311,Recovery -> Residential
+rec_2,res_1151,Recovery -> Residential
+rec_3,res_1300,Recovery -> Residential
+rec_4,res_1838,Recovery -> Residential
+rec_5,res_2206,Recovery -> Residential
+rec_6,res_2772,Recovery -> Residential
+rec_7,res_3319,Recovery -> Residential
+rec_8,res_2222,Recovery -> Residential
+rec_9,res_2218,Recovery -> Residential
+rec_10,res_4444,Recovery -> Residential
+rec_1,hea_1,Recovery -> Health
+rec_2,hea_21,Recovery -> Health
+rec_3,hea_37,Recovery -> Health
+rec_4,hea_34,Recovery -> Health
+rec_5,hea_39,Recovery -> Health
+rec_6,hea_53,Recovery -> Health
+rec_7,hea_61,Recovery -> Health
+rec_8,hea_41,Recovery -> Health
+rec_9,hea_75,Recovery -> Health
+rec_10,hea_76,Recovery -> Health
+rec_1,edu_6,Recovery -> Education
+rec_2,edu_48,Recovery -> Education
+rec_3,edu_30,Recovery -> Education
+rec_4,edu_68,Recovery -> Education
+rec_5,edu_79,Recovery -> Education
+rec_6,edu_54,Recovery -> Education
+rec_7,edu_107,Recovery -> Education
+rec_8,edu_116,Recovery -> Education
+rec_9,edu_79,Recovery -> Education
+rec_10,edu_122,Recovery -> Education
+rec_1,lei_12,Recovery -> Leisure
+rec_2,lei_26,Recovery -> Leisure
+rec_3,lei_80,Recovery -> Leisure
+rec_4,lei_73,Recovery -> Leisure
+rec_5,lei_81,Recovery -> Leisure
+rec_6,lei_94,Recovery -> Leisure
+rec_7,lei_117,Recovery -> Leisure
+rec_8,lei_81,Recovery -> Leisure
+rec_9,lei_81,Recovery -> Leisure
+rec_10,lei_144,Recovery -> Leisure
+rec_1,pub_4,Recovery -> Public Office
+rec_2,pub_2,Recovery -> Public Office
+rec_3,pub_5,Recovery -> Public Office
+rec_4,pub_9,Recovery -> Public Office
+rec_5,pub_26,Recovery -> Public Office
+rec_6,pub_17,Recovery -> Public Office
+rec_7,pub_10,Recovery -> Public Office
+rec_8,pub_20,Recovery -> Public Office
+rec_9,pub_26,Recovery -> Public Office
+rec_10,pub_27,Recovery -> Public Office
+rec_1,sen_cnt_2,Recovery -> Senior Center
+rec_2,sen_cnt_3,Recovery -> Senior Center
+rec_3,sen_cnt_3,Recovery -> Senior Center
+rec_4,sen_cnt_5,Recovery -> Senior Center
+rec_5,sen_cnt_5,Recovery -> Senior Center
+rec_6,sen_cnt_4,Recovery -> Senior Center
+rec_7,sen_cnt_6,Recovery -> Senior Center
+rec_8,sen_cnt_5,Recovery -> Senior Center
+rec_9,sen_cnt_5,Recovery -> Senior Center
+rec_10,sen_cnt_5,Recovery -> Senior Center
+rec_1,dis_cnt_1,Recovery -> Center for Disability
+rec_2,dis_cnt_4,Recovery -> Center for Disability
+rec_3,dis_cnt_2,Recovery -> Center for Disability
+rec_4,dis_cnt_2,Recovery -> Center for Disability
+rec_5,dis_cnt_2,Recovery -> Center for Disability
+rec_6,dis_cnt_4,Recovery -> Center for Disability
+rec_7,dis_cnt_2,Recovery -> Center for Disability
+rec_8,dis_cnt_2,Recovery -> Center for Disability
+rec_9,dis_cnt_2,Recovery -> Center for Disability
+rec_10,dis_cnt_6,Recovery -> Center for Disability
+bri_1,cros_1,Bridge -> Crossroad
+bri_2,cros_3,Bridge -> Crossroad
+bri_3,cros_4,Bridge -> Crossroad
+bri_4,cros_38,Bridge -> Crossroad
+bri_5,cros_1,Bridge -> Crossroad
+bri_6,cros_1,Bridge -> Crossroad
+bri_7,cros_1,Bridge -> Crossroad
+bri_8,cros_28,Bridge -> Crossroad
+bri_9,cros_50,Bridge -> Crossroad
+bri_10,cros_37,Bridge -> Crossroad
+cros_1,ind_66,Crossroad -> Industry
+cros_2,ind_64,Crossroad -> Industry
+cros_3,ind_260,Crossroad -> Industry
+cros_4,ind_141,Crossroad -> Industry
+cros_5,ind_199,Crossroad -> Industry
+cros_6,ind_149,Crossroad -> Industry
+cros_7,ind_275,Crossroad -> Industry
+cros_8,ind_202,Crossroad -> Industry
+cros_9,ind_94,Crossroad -> Industry
+cros_10,ind_47,Crossroad -> Industry
+cros_11,ind_41,Crossroad -> Industry
+cros_12,ind_74,Crossroad -> Industry
+cros_13,ind_262,Crossroad -> Industry
+cros_14,ind_178,Crossroad -> Industry
+cros_15,ind_68,Crossroad -> Industry
+cros_16,ind_74,Crossroad -> Industry
+cros_17,ind_1,Crossroad -> Industry
+cros_18,ind_167,Crossroad -> Industry
+cros_19,ind_268,Crossroad -> Industry
+cros_20,ind_163,Crossroad -> Industry
+cros_21,ind_80,Crossroad -> Industry
+cros_22,ind_103,Crossroad -> Industry
+cros_23,ind_50,Crossroad -> Industry
+cros_24,ind_23,Crossroad -> Industry
+cros_25,ind_319,Crossroad -> Industry
+cros_26,ind_277,Crossroad -> Industry
+cros_27,ind_91,Crossroad -> Industry
+cros_28,ind_109,Crossroad -> Industry
+cros_29,ind_88,Crossroad -> Industry
+cros_30,ind_32,Crossroad -> Industry
+cros_31,ind_53,Crossroad -> Industry
+cros_32,ind_19,Crossroad -> Industry
+cros_33,ind_15,Crossroad -> Industry
+cros_34,ind_19,Crossroad -> Industry
+cros_35,ind_7,Crossroad -> Industry
+cros_36,ind_70,Crossroad -> Industry
+cros_37,ind_72,Crossroad -> Industry
+cros_38,ind_157,Crossroad -> Industry
+cros_39,ind_222,Crossroad -> Industry
+cros_40,ind_252,Crossroad -> Industry
+cros_41,ind_300,Crossroad -> Industry
+cros_42,ind_197,Crossroad -> Industry
+cros_43,ind_241,Crossroad -> Industry
+cros_44,ind_253,Crossroad -> Industry
+cros_45,ind_201,Crossroad -> Industry
+cros_46,ind_325,Crossroad -> Industry
+cros_47,ind_4,Crossroad -> Industry
+cros_48,ind_213,Crossroad -> Industry
+cros_49,ind_225,Crossroad -> Industry
+cros_50,ind_313,Crossroad -> Industry
+cros_1,rec_3,Crossroad -> Recovery
+cros_2,rec_3,Crossroad -> Recovery
+cros_3,rec_3,Crossroad -> Recovery
+cros_4,rec_8,Crossroad -> Recovery
+cros_5,rec_6,Crossroad -> Recovery
+cros_6,rec_6,Crossroad -> Recovery
+cros_7,rec_10,Crossroad -> Recovery
+cros_8,rec_7,Crossroad -> Recovery
+cros_9,rec_4,Crossroad -> Recovery
+cros_10,rec_1,Crossroad -> Recovery
+cros_11,rec_3,Crossroad -> Recovery
+cros_12,rec_7,Crossroad -> Recovery
+cros_13,rec_4,Crossroad -> Recovery
+cros_14,rec_10,Crossroad -> Recovery
+cros_15,rec_6,Crossroad -> Recovery
+cros_16,rec_7,Crossroad -> Recovery
+cros_17,rec_7,Crossroad -> Recovery
+cros_18,rec_7,Crossroad -> Recovery
+cros_19,rec_7,Crossroad -> Recovery
+cros_20,rec_7,Crossroad -> Recovery
+cros_21,rec_7,Crossroad -> Recovery
+cros_22,rec_7,Crossroad -> Recovery
+cros_23,rec_4,Crossroad -> Recovery
+cros_24,rec_1,Crossroad -> Recovery
+cros_25,rec_10,Crossroad -> Recovery
+cros_26,rec_10,Crossroad -> Recovery
+cros_27,rec_8,Crossroad -> Recovery
+cros_28,rec_5,Crossroad -> Recovery
+cros_29,rec_4,Crossroad -> Recovery
+cros_30,rec_3,Crossroad -> Recovery
+cros_31,rec_3,Crossroad -> Recovery
+cros_32,rec_1,Crossroad -> Recovery
+cros_33,rec_1,Crossroad -> Recovery
+cros_34,rec_1,Crossroad -> Recovery
+cros_35,rec_1,Crossroad -> Recovery
+cros_36,rec_6,Crossroad -> Recovery
+cros_37,rec_2,Crossroad -> Recovery
+cros_38,rec_6,Crossroad -> Recovery
+cros_39,rec_6,Crossroad -> Recovery
+cros_40,rec_6,Crossroad -> Recovery
+cros_41,rec_10,Crossroad -> Recovery
+cros_42,rec_6,Crossroad -> Recovery
+cros_43,rec_6,Crossroad -> Recovery
+cros_44,rec_6,Crossroad -> Recovery
+cros_45,rec_6,Crossroad -> Recovery
+cros_46,rec_10,Crossroad -> Recovery
+cros_47,rec_1,Crossroad -> Recovery
+cros_48,rec_6,Crossroad -> Recovery
+cros_49,rec_6,Crossroad -> Recovery
+cros_50,rec_10,Crossroad -> Recovery
+cros_1,res_1201,Crossroad -> Residential
+cros_2,res_876,Crossroad -> Residential
+cros_3,res_2173,Crossroad -> Residential
+cros_4,res_2390,Crossroad -> Residential
+cros_5,res_4007,Crossroad -> Residential
+cros_6,res_2789,Crossroad -> Residential
+cros_7,res_4593,Crossroad -> Residential
+cros_8,res_3698,Crossroad -> Residential
+cros_9,res_1820,Crossroad -> Residential
+cros_10,res_4291,Crossroad -> Residential
+cros_11,res_764,Crossroad -> Residential
+cros_12,res_3489,Crossroad -> Residential
+cros_13,res_3418,Crossroad -> Residential
+cros_14,res_3821,Crossroad -> Residential
+cros_15,res_1501,Crossroad -> Residential
+cros_16,res_2005,Crossroad -> Residential
+cros_17,res_1740,Crossroad -> Residential
+cros_18,res_3125,Crossroad -> Residential
+cros_19,res_4057,Crossroad -> Residential
+cros_20,res_3235,Crossroad -> Residential
+cros_21,res_1716,Crossroad -> Residential
+cros_22,res_1913,Crossroad -> Residential
+cros_23,res_857,Crossroad -> Residential
+cros_24,res_553,Crossroad -> Residential
+cros_25,res_4843,Crossroad -> Residential
+cros_26,res_4738,Crossroad -> Residential
+cros_27,res_2212,Crossroad -> Residential
+cros_28,res_2221,Crossroad -> Residential
+cros_29,res_1795,Crossroad -> Residential
+cros_30,res_663,Crossroad -> Residential
+cros_31,res_1000,Crossroad -> Residential
+cros_32,res_451,Crossroad -> Residential
+cros_33,res_4390,Crossroad -> Residential
+cros_34,res_377,Crossroad -> Residential
+cros_35,res_137,Crossroad -> Residential
+cros_36,res_1518,Crossroad -> Residential
+cros_37,res_497,Crossroad -> Residential
+cros_38,res_3035,Crossroad -> Residential
+cros_39,res_4092,Crossroad -> Residential
+cros_40,res_4196,Crossroad -> Residential
+cros_41,res_3857,Crossroad -> Residential
+cros_42,res_3959,Crossroad -> Residential
+cros_43,res_4090,Crossroad -> Residential
+cros_44,res_4153,Crossroad -> Residential
+cros_45,res_3992,Crossroad -> Residential
+cros_46,res_4874,Crossroad -> Residential
+cros_47,res_24,Crossroad -> Residential
+cros_48,res_4082,Crossroad -> Residential
+cros_49,res_4097,Crossroad -> Residential
+cros_50,res_4744,Crossroad -> Residential
+cros_1,hea_17,Crossroad -> Health
+cros_2,hea_19,Crossroad -> Health
+cros_3,hea_38,Crossroad -> Health
+cros_4,hea_47,Crossroad -> Health
+cros_5,hea_68,Crossroad -> Health
+cros_6,hea_55,Crossroad -> Health
+cros_7,hea_78,Crossroad -> Health
+cros_8,hea_62,Crossroad -> Health
+cros_9,hea_33,Crossroad -> Health
+cros_10,hea_14,Crossroad -> Health
+cros_11,hea_18,Crossroad -> Health
+cros_12,hea_62,Crossroad -> Health
+cros_13,hea_33,Crossroad -> Health
+cros_14,hea_64,Crossroad -> Health
+cros_15,hea_30,Crossroad -> Health
+cros_16,hea_36,Crossroad -> Health
+cros_17,hea_31,Crossroad -> Health
+cros_18,hea_59,Crossroad -> Health
+cros_19,hea_60,Crossroad -> Health
+cros_20,hea_60,Crossroad -> Health
+cros_21,hea_60,Crossroad -> Health
+cros_22,hea_36,Crossroad -> Health
+cros_23,hea_13,Crossroad -> Health
+cros_24,hea_13,Crossroad -> Health
+cros_25,hea_67,Crossroad -> Health
+cros_26,hea_79,Crossroad -> Health
+cros_27,hea_72,Crossroad -> Health
+cros_28,hea_40,Crossroad -> Health
+cros_29,hea_32,Crossroad -> Health
+cros_30,hea_12,Crossroad -> Health
+cros_31,hea_17,Crossroad -> Health
+cros_32,hea_5,Crossroad -> Health
+cros_33,hea_1,Crossroad -> Health
+cros_34,hea_10,Crossroad -> Health
+cros_35,hea_7,Crossroad -> Health
+cros_36,hea_29,Crossroad -> Health
+cros_37,hea_11,Crossroad -> Health
+cros_38,hea_57,Crossroad -> Health
+cros_39,hea_56,Crossroad -> Health
+cros_40,hea_70,Crossroad -> Health
+cros_41,hea_66,Crossroad -> Health
+cros_42,hea_66,Crossroad -> Health
+cros_43,hea_69,Crossroad -> Health
+cros_44,hea_71,Crossroad -> Health
+cros_45,hea_67,Crossroad -> Health
+cros_46,hea_77,Crossroad -> Health
+cros_47,hea_2,Crossroad -> Health
+cros_48,hea_69,Crossroad -> Health
+cros_49,hea_71,Crossroad -> Health
+cros_50,hea_76,Crossroad -> Health
+cros_1,edu_37,Crossroad -> Education
+cros_2,edu_30,Crossroad -> Education
+cros_3,edu_75,Crossroad -> Education
+cros_4,edu_83,Crossroad -> Education
+cros_5,edu_88,Crossroad -> Education
+cros_6,edu_89,Crossroad -> Education
+cros_7,edu_128,Crossroad -> Education
+cros_8,edu_107,Crossroad -> Education
+cros_9,edu_68,Crossroad -> Education
+cros_10,edu_24,Crossroad -> Education
+cros_11,edu_32,Crossroad -> Education
+cros_12,edu_107,Crossroad -> Education
+cros_13,edu_105,Crossroad -> Education
+cros_14,edu_106,Crossroad -> Education
+cros_15,edu_49,Crossroad -> Education
+cros_16,edu_66,Crossroad -> Education
+cros_17,edu_93,Crossroad -> Education
+cros_18,edu_96,Crossroad -> Education
+cros_19,edu_95,Crossroad -> Education
+cros_20,edu_95,Crossroad -> Education
+cros_21,edu_93,Crossroad -> Education
+cros_22,edu_66,Crossroad -> Education
+cros_23,edu_61,Crossroad -> Education
+cros_24,edu_12,Crossroad -> Education
+cros_25,edu_129,Crossroad -> Education
+cros_26,edu_135,Crossroad -> Education
+cros_27,edu_70,Crossroad -> Education
+cros_28,edu_79,Crossroad -> Education
+cros_29,edu_63,Crossroad -> Education
+cros_30,edu_23,Crossroad -> Education
+cros_31,edu_41,Crossroad -> Education
+cros_32,edu_8,Crossroad -> Education
+cros_33,edu_10,Crossroad -> Education
+cros_34,edu_9,Crossroad -> Education
+cros_35,edu_10,Crossroad -> Education
+cros_36,edu_50,Crossroad -> Education
+cros_37,edu_60,Crossroad -> Education
+cros_38,edu_90,Crossroad -> Education
+cros_39,edu_121,Crossroad -> Education
+cros_40,edu_112,Crossroad -> Education
+cros_41,edu_113,Crossroad -> Education
+cros_42,edu_87,Crossroad -> Education
+cros_43,edu_110,Crossroad -> Education
+cros_44,edu_110,Crossroad -> Education
+cros_45,edu_88,Crossroad -> Education
+cros_46,edu_125,Crossroad -> Education
+cros_47,edu_2,Crossroad -> Education
+cros_48,edu_52,Crossroad -> Education
+cros_49,edu_111,Crossroad -> Education
+cros_50,edu_129,Crossroad -> Education
+cros_1,lei_51,Crossroad -> Leisure
+cros_2,lei_38,Crossroad -> Leisure
+cros_3,lei_79,Crossroad -> Leisure
+cros_4,lei_87,Crossroad -> Leisure
+cros_5,lei_123,Crossroad -> Leisure
+cros_6,lei_97,Crossroad -> Leisure
+cros_7,lei_137,Crossroad -> Leisure
+cros_8,lei_117,Crossroad -> Leisure
+cros_9,lei_76,Crossroad -> Leisure
+cros_10,lei_34,Crossroad -> Leisure
+cros_11,lei_32,Crossroad -> Leisure
+cros_12,lei_117,Crossroad -> Leisure
+cros_13,lei_116,Crossroad -> Leisure
+cros_14,lei_111,Crossroad -> Leisure
+cros_15,lei_58,Crossroad -> Leisure
+cros_16,lei_77,Crossroad -> Leisure
+cros_17,lei_102,Crossroad -> Leisure
+cros_18,lei_103,Crossroad -> Leisure
+cros_19,lei_103,Crossroad -> Leisure
+cros_20,lei_108,Crossroad -> Leisure
+cros_21,lei_108,Crossroad -> Leisure
+cros_22,lei_77,Crossroad -> Leisure
+cros_23,lei_69,Crossroad -> Leisure
+cros_24,lei_27,Crossroad -> Leisure
+cros_25,lei_120,Crossroad -> Leisure
+cros_26,lei_143,Crossroad -> Leisure
+cros_27,lei_82,Crossroad -> Leisure
+cros_28,lei_81,Crossroad -> Leisure
+cros_29,lei_68,Crossroad -> Leisure
+cros_30,lei_31,Crossroad -> Leisure
+cros_31,lei_37,Crossroad -> Leisure
+cros_32,lei_25,Crossroad -> Leisure
+cros_33,lei_23,Crossroad -> Leisure
+cros_34,lei_17,Crossroad -> Leisure
+cros_35,lei_23,Crossroad -> Leisure
+cros_36,lei_55,Crossroad -> Leisure
+cros_37,lei_62,Crossroad -> Leisure
+cros_38,lei_59,Crossroad -> Leisure
+cros_39,lei_126,Crossroad -> Leisure
+cros_40,lei_128,Crossroad -> Leisure
+cros_41,lei_120,Crossroad -> Leisure
+cros_42,lei_122,Crossroad -> Leisure
+cros_43,lei_124,Crossroad -> Leisure
+cros_44,lei_130,Crossroad -> Leisure
+cros_45,lei_135,Crossroad -> Leisure
+cros_46,lei_136,Crossroad -> Leisure
+cros_47,lei_12,Crossroad -> Leisure
+cros_48,lei_132,Crossroad -> Leisure
+cros_49,lei_127,Crossroad -> Leisure
+cros_50,lei_7,Crossroad -> Leisure
+cros_1,pub_6,Crossroad -> Public Office
+cros_2,pub_5,Crossroad -> Public Office
+cros_3,pub_11,Crossroad -> Public Office
+cros_4,pub_22,Crossroad -> Public Office
+cros_5,pub_23,Crossroad -> Public Office
+cros_6,pub_23,Crossroad -> Public Office
+cros_7,pub_27,Crossroad -> Public Office
+cros_8,pub_18,Crossroad -> Public Office
+cros_9,pub_10,Crossroad -> Public Office
+cros_10,pub_3,Crossroad -> Public Office
+cros_11,pub_5,Crossroad -> Public Office
+cros_12,pub_10,Crossroad -> Public Office
+cros_13,pub_9,Crossroad -> Public Office
+cros_14,pub_27,Crossroad -> Public Office
+cros_15,pub_1,Crossroad -> Public Office
+cros_16,pub_10,Crossroad -> Public Office
+cros_17,pub_8,Crossroad -> Public Office
+cros_18,pub_18,Crossroad -> Public Office
+cros_19,pub_18,Crossroad -> Public Office
+cros_20,pub_18,Crossroad -> Public Office
+cros_21,pub_8,Crossroad -> Public Office
+cros_22,pub_10,Crossroad -> Public Office
+cros_23,pub_3,Crossroad -> Public Office
+cros_24,pub_3,Crossroad -> Public Office
+cros_25,pub_19,Crossroad -> Public Office
+cros_26,pub_28,Crossroad -> Public Office
+cros_27,pub_9,Crossroad -> Public Office
+cros_28,pub_20,Crossroad -> Public Office
+cros_29,pub_9,Crossroad -> Public Office
+cros_30,pub_4,Crossroad -> Public Office
+cros_31,pub_2,Crossroad -> Public Office
+cros_32,pub_2,Crossroad -> Public Office
+cros_33,pub_3,Crossroad -> Public Office
+cros_34,pub_4,Crossroad -> Public Office
+cros_35,pub_3,Crossroad -> Public Office
+cros_36,pub_7,Crossroad -> Public Office
+cros_37,pub_7,Crossroad -> Public Office
+cros_38,pub_17,Crossroad -> Public Office
+cros_39,pub_23,Crossroad -> Public Office
+cros_40,pub_23,Crossroad -> Public Office
+cros_41,pub_19,Crossroad -> Public Office
+cros_42,pub_21,Crossroad -> Public Office
+cros_43,pub_23,Crossroad -> Public Office
+cros_44,pub_23,Crossroad -> Public Office
+cros_45,pub_23,Crossroad -> Public Office
+cros_46,pub_28,Crossroad -> Public Office
+cros_47,pub_4,Crossroad -> Public Office
+cros_48,pub_7,Crossroad -> Public Office
+cros_49,pub_23,Crossroad -> Public Office
+cros_50,pub_28,Crossroad -> Public Office
+cros_1,sen_cnt_3,Crossroad -> Senior Center
+cros_2,sen_cnt_3,Crossroad -> Senior Center
+cros_3,sen_cnt_3,Crossroad -> Senior Center
+cros_4,sen_cnt_3,Crossroad -> Senior Center
+cros_5,sen_cnt_4,Crossroad -> Senior Center
+cros_6,sen_cnt_4,Crossroad -> Senior Center
+cros_7,sen_cnt_5,Crossroad -> Senior Center
+cros_8,sen_cnt_6,Crossroad -> Senior Center
+cros_9,sen_cnt_5,Crossroad -> Senior Center
+cros_10,sen_cnt_2,Crossroad -> Senior Center
+cros_11,sen_cnt_2,Crossroad -> Senior Center
+cros_12,sen_cnt_6,Crossroad -> Senior Center
+cros_13,sen_cnt_5,Crossroad -> Senior Center
+cros_14,sen_cnt_5,Crossroad -> Senior Center
+cros_15,sen_cnt_4,Crossroad -> Senior Center
+cros_16,sen_cnt_6,Crossroad -> Senior Center
+cros_17,sen_cnt_6,Crossroad -> Senior Center
+cros_18,sen_cnt_6,Crossroad -> Senior Center
+cros_19,sen_cnt_6,Crossroad -> Senior Center
+cros_20,sen_cnt_6,Crossroad -> Senior Center
+cros_21,sen_cnt_6,Crossroad -> Senior Center
+cros_22,sen_cnt_6,Crossroad -> Senior Center
+cros_23,sen_cnt_2,Crossroad -> Senior Center
+cros_24,sen_cnt_2,Crossroad -> Senior Center
+cros_25,sen_cnt_3,Crossroad -> Senior Center
+cros_26,sen_cnt_6,Crossroad -> Senior Center
+cros_27,sen_cnt_5,Crossroad -> Senior Center
+cros_28,sen_cnt_5,Crossroad -> Senior Center
+cros_29,sen_cnt_2,Crossroad -> Senior Center
+cros_30,sen_cnt_2,Crossroad -> Senior Center
+cros_31,sen_cnt_3,Crossroad -> Senior Center
+cros_32,sen_cnt_2,Crossroad -> Senior Center
+cros_33,sen_cnt_2,Crossroad -> Senior Center
+cros_34,sen_cnt_2,Crossroad -> Senior Center
+cros_35,sen_cnt_2,Crossroad -> Senior Center
+cros_36,sen_cnt_4,Crossroad -> Senior Center
+cros_37,sen_cnt_4,Crossroad -> Senior Center
+cros_38,sen_cnt_3,Crossroad -> Senior Center
+cros_39,sen_cnt_4,Crossroad -> Senior Center
+cros_40,sen_cnt_4,Crossroad -> Senior Center
+cros_41,sen_cnt_3,Crossroad -> Senior Center
+cros_42,sen_cnt_3,Crossroad -> Senior Center
+cros_43,sen_cnt_4,Crossroad -> Senior Center
+cros_44,sen_cnt_4,Crossroad -> Senior Center
+cros_45,sen_cnt_4,Crossroad -> Senior Center
+cros_46,sen_cnt_5,Crossroad -> Senior Center
+cros_47,sen_cnt_2,Crossroad -> Senior Center
+cros_48,sen_cnt_4,Crossroad -> Senior Center
+cros_49,sen_cnt_4,Crossroad -> Senior Center
+cros_50,sen_cnt_5,Crossroad -> Senior Center
+cros_1,dis_cnt_3,Crossroad -> Center for Disability
+cros_2,dis_cnt_2,Crossroad -> Center for Disability
+cros_3,dis_cnt_2,Crossroad -> Center for Disability
+cros_4,dis_cnt_6,Crossroad -> Center for Disability
+cros_5,dis_cnt_6,Crossroad -> Center for Disability
+cros_6,dis_cnt_4,Crossroad -> Center for Disability
+cros_7,dis_cnt_6,Crossroad -> Center for Disability
+cros_8,dis_cnt_2,Crossroad -> Center for Disability
+cros_9,dis_cnt_2,Crossroad -> Center for Disability
+cros_10,dis_cnt_2,Crossroad -> Center for Disability
+cros_11,dis_cnt_2,Crossroad -> Center for Disability
+cros_12,dis_cnt_2,Crossroad -> Center for Disability
+cros_13,dis_cnt_2,Crossroad -> Center for Disability
+cros_14,dis_cnt_6,Crossroad -> Center for Disability
+cros_15,dis_cnt_4,Crossroad -> Center for Disability
+cros_16,dis_cnt_2,Crossroad -> Center for Disability
+cros_17,dis_cnt_2,Crossroad -> Center for Disability
+cros_18,dis_cnt_2,Crossroad -> Center for Disability
+cros_19,dis_cnt_2,Crossroad -> Center for Disability
+cros_20,dis_cnt_2,Crossroad -> Center for Disability
+cros_21,dis_cnt_2,Crossroad -> Center for Disability
+cros_22,dis_cnt_2,Crossroad -> Center for Disability
+cros_23,dis_cnt_2,Crossroad -> Center for Disability
+cros_24,dis_cnt_2,Crossroad -> Center for Disability
+cros_25,dis_cnt_6,Crossroad -> Center for Disability
+cros_26,dis_cnt_6,Crossroad -> Center for Disability
+cros_27,dis_cnt_2,Crossroad -> Center for Disability
+cros_28,dis_cnt_2,Crossroad -> Center for Disability
+cros_29,dis_cnt_2,Crossroad -> Center for Disability
+cros_30,dis_cnt_2,Crossroad -> Center for Disability
+cros_31,dis_cnt_2,Crossroad -> Center for Disability
+cros_32,dis_cnt_1,Crossroad -> Center for Disability
+cros_33,dis_cnt_1,Crossroad -> Center for Disability
+cros_34,dis_cnt_1,Crossroad -> Center for Disability
+cros_35,dis_cnt_1,Crossroad -> Center for Disability
+cros_36,dis_cnt_4,Crossroad -> Center for Disability
+cros_37,dis_cnt_4,Crossroad -> Center for Disability
+cros_38,dis_cnt_4,Crossroad -> Center for Disability
+cros_39,dis_cnt_4,Crossroad -> Center for Disability
+cros_40,dis_cnt_6,Crossroad -> Center for Disability
+cros_41,dis_cnt_6,Crossroad -> Center for Disability
+cros_42,dis_cnt_6,Crossroad -> Center for Disability
+cros_43,dis_cnt_6,Crossroad -> Center for Disability
+cros_44,dis_cnt_6,Crossroad -> Center for Disability
+cros_45,dis_cnt_6,Crossroad -> Center for Disability
+cros_46,dis_cnt_6,Crossroad -> Center for Disability
+cros_47,dis_cnt_1,Crossroad -> Center for Disability
+cros_48,dis_cnt_4,Crossroad -> Center for Disability
+cros_49,dis_cnt_6,Crossroad -> Center for Disability
+cros_50,dis_cnt_6,Crossroad -> Center for Disability
+cros_1,shop_37,Crossroad -> Shops
+cros_2,shop_43,Crossroad -> Shops
+cros_3,shop_80,Crossroad -> Shops
+cros_4,shop_90,Crossroad -> Shops
+cros_5,shop_123,Crossroad -> Shops
+cros_6,shop_133,Crossroad -> Shops
+cros_7,shop_189,Crossroad -> Shops
+cros_8,shop_154,Crossroad -> Shops
+cros_9,shop_69,Crossroad -> Shops
+cros_10,shop_29,Crossroad -> Shops
+cros_11,shop_33,Crossroad -> Shops
+cros_12,shop_143,Crossroad -> Shops
+cros_13,shop_141,Crossroad -> Shops
+cros_14,shop_161,Crossroad -> Shops
+cros_15,shop_50,Crossroad -> Shops
+cros_16,shop_67,Crossroad -> Shops
+cros_17,shop_54,Crossroad -> Shops
+cros_18,shop_139,Crossroad -> Shops
+cros_19,shop_170,Crossroad -> Shops
+cros_20,shop_185,Crossroad -> Shops
+cros_21,shop_54,Crossroad -> Shops
+cros_22,shop_72,Crossroad -> Shops
+cros_23,shop_35,Crossroad -> Shops
+cros_24,shop_23,Crossroad -> Shops
+cros_25,shop_186,Crossroad -> Shops
+cros_26,shop_213,Crossroad -> Shops
+cros_27,shop_61,Crossroad -> Shops
+cros_28,shop_83,Crossroad -> Shops
+cros_29,shop_64,Crossroad -> Shops
+cros_30,shop_25,Crossroad -> Shops
+cros_31,shop_47,Crossroad -> Shops
+cros_32,shop_19,Crossroad -> Shops
+cros_33,shop_13,Crossroad -> Shops
+cros_34,shop_6,Crossroad -> Shops
+cros_35,shop_10,Crossroad -> Shops
+cros_36,shop_51,Crossroad -> Shops
+cros_37,shop_53,Crossroad -> Shops
+cros_38,shop_183,Crossroad -> Shops
+cros_39,shop_2,Crossroad -> Shops
+cros_40,shop_177,Crossroad -> Shops
+cros_41,shop_203,Crossroad -> Shops
+cros_42,shop_169,Crossroad -> Shops
+cros_43,shop_178,Crossroad -> Shops
+cros_44,shop_180,Crossroad -> Shops
+cros_45,shop_168,Crossroad -> Shops
+cros_46,shop_198,Crossroad -> Shops
+cros_47,shop_19,Crossroad -> Shops
+cros_48,shop_174,Crossroad -> Shops
+cros_49,shop_180,Crossroad -> Shops
+cros_50,shop_202,Crossroad -> Shops
+ind_1,shop_54,Industry -> Shops
+ind_2,shop_24,Industry -> Shops
+ind_3,shop_5,Industry -> Shops
+ind_4,shop_16,Industry -> Shops
+ind_5,shop_6,Industry -> Shops
+ind_6,shop_6,Industry -> Shops
+ind_7,shop_10,Industry -> Shops
+ind_8,shop_10,Industry -> Shops
+ind_9,shop_12,Industry -> Shops
+ind_10,shop_14,Industry -> Shops
+ind_11,shop_16,Industry -> Shops
+ind_12,shop_16,Industry -> Shops
+ind_13,shop_16,Industry -> Shops
+ind_14,shop_16,Industry -> Shops
+ind_15,shop_16,Industry -> Shops
+ind_16,shop_9,Industry -> Shops
+ind_17,shop_18,Industry -> Shops
+ind_18,shop_16,Industry -> Shops
+ind_19,shop_6,Industry -> Shops
+ind_20,shop_22,Industry -> Shops
+ind_21,shop_23,Industry -> Shops
+ind_22,shop_23,Industry -> Shops
+ind_23,shop_23,Industry -> Shops
+ind_24,shop_24,Industry -> Shops
+ind_25,shop_27,Industry -> Shops
+ind_26,shop_182,Industry -> Shops
+ind_27,shop_30,Industry -> Shops
+ind_28,shop_182,Industry -> Shops
+ind_29,shop_182,Industry -> Shops
+ind_30,shop_28,Industry -> Shops
+ind_31,shop_27,Industry -> Shops
+ind_32,shop_25,Industry -> Shops
+ind_33,shop_31,Industry -> Shops
+ind_34,shop_31,Industry -> Shops
+ind_35,shop_32,Industry -> Shops
+ind_36,shop_32,Industry -> Shops
+ind_37,shop_32,Industry -> Shops
+ind_38,shop_27,Industry -> Shops
+ind_39,shop_27,Industry -> Shops
+ind_40,shop_33,Industry -> Shops
+ind_41,shop_33,Industry -> Shops
+ind_42,shop_33,Industry -> Shops
+ind_43,shop_33,Industry -> Shops
+ind_44,shop_27,Industry -> Shops
+ind_45,shop_182,Industry -> Shops
+ind_46,shop_27,Industry -> Shops
+ind_47,shop_3,Industry -> Shops
+ind_48,shop_33,Industry -> Shops
+ind_49,shop_34,Industry -> Shops
+ind_50,shop_34,Industry -> Shops
+ind_51,shop_43,Industry -> Shops
+ind_52,shop_181,Industry -> Shops
+ind_53,shop_39,Industry -> Shops
+ind_54,shop_27,Industry -> Shops
+ind_55,shop_181,Industry -> Shops
+ind_56,shop_39,Industry -> Shops
+ind_57,shop_181,Industry -> Shops
+ind_58,shop_41,Industry -> Shops
+ind_59,shop_41,Industry -> Shops
+ind_60,shop_48,Industry -> Shops
+ind_61,shop_48,Industry -> Shops
+ind_62,shop_40,Industry -> Shops
+ind_63,shop_40,Industry -> Shops
+ind_64,shop_181,Industry -> Shops
+ind_65,shop_48,Industry -> Shops
+ind_66,shop_39,Industry -> Shops
+ind_67,shop_40,Industry -> Shops
+ind_68,shop_50,Industry -> Shops
+ind_69,shop_40,Industry -> Shops
+ind_70,shop_50,Industry -> Shops
+ind_71,shop_53,Industry -> Shops
+ind_72,shop_49,Industry -> Shops
+ind_73,shop_50,Industry -> Shops
+ind_74,shop_54,Industry -> Shops
+ind_75,shop_54,Industry -> Shops
+ind_76,shop_54,Industry -> Shops
+ind_77,shop_54,Industry -> Shops
+ind_78,shop_54,Industry -> Shops
+ind_79,shop_76,Industry -> Shops
+ind_80,shop_54,Industry -> Shops
+ind_81,shop_54,Industry -> Shops
+ind_82,shop_54,Industry -> Shops
+ind_83,shop_54,Industry -> Shops
+ind_84,shop_54,Industry -> Shops
+ind_85,shop_76,Industry -> Shops
+ind_86,shop_55,Industry -> Shops
+ind_87,shop_74,Industry -> Shops
+ind_88,shop_73,Industry -> Shops
+ind_89,shop_73,Industry -> Shops
+ind_90,shop_61,Industry -> Shops
+ind_91,shop_57,Industry -> Shops
+ind_92,shop_62,Industry -> Shops
+ind_93,shop_62,Industry -> Shops
+ind_94,shop_59,Industry -> Shops
+ind_95,shop_59,Industry -> Shops
+ind_96,shop_60,Industry -> Shops
+ind_97,shop_73,Industry -> Shops
+ind_98,shop_76,Industry -> Shops
+ind_99,shop_76,Industry -> Shops
+ind_100,shop_76,Industry -> Shops
+ind_101,shop_76,Industry -> Shops
+ind_102,shop_76,Industry -> Shops
+ind_103,shop_72,Industry -> Shops
+ind_104,shop_72,Industry -> Shops
+ind_105,shop_76,Industry -> Shops
+ind_106,shop_76,Industry -> Shops
+ind_107,shop_62,Industry -> Shops
+ind_108,shop_83,Industry -> Shops
+ind_109,shop_83,Industry -> Shops
+ind_110,shop_85,Industry -> Shops
+ind_111,shop_115,Industry -> Shops
+ind_112,shop_85,Industry -> Shops
+ind_113,shop_85,Industry -> Shops
+ind_114,shop_85,Industry -> Shops
+ind_115,shop_85,Industry -> Shops
+ind_116,shop_87,Industry -> Shops
+ind_117,shop_116,Industry -> Shops
+ind_118,shop_116,Industry -> Shops
+ind_119,shop_116,Industry -> Shops
+ind_120,shop_116,Industry -> Shops
+ind_121,shop_87,Industry -> Shops
+ind_122,shop_120,Industry -> Shops
+ind_123,shop_87,Industry -> Shops
+ind_124,shop_87,Industry -> Shops
+ind_125,shop_87,Industry -> Shops
+ind_126,shop_87,Industry -> Shops
+ind_127,shop_87,Industry -> Shops
+ind_128,shop_120,Industry -> Shops
+ind_129,shop_120,Industry -> Shops
+ind_130,shop_87,Industry -> Shops
+ind_131,shop_87,Industry -> Shops
+ind_132,shop_87,Industry -> Shops
+ind_133,shop_87,Industry -> Shops
+ind_134,shop_84,Industry -> Shops
+ind_135,shop_84,Industry -> Shops
+ind_136,shop_165,Industry -> Shops
+ind_137,shop_84,Industry -> Shops
+ind_138,shop_84,Industry -> Shops
+ind_139,shop_87,Industry -> Shops
+ind_140,shop_91,Industry -> Shops
+ind_141,shop_122,Industry -> Shops
+ind_142,shop_87,Industry -> Shops
+ind_143,shop_116,Industry -> Shops
+ind_144,shop_85,Industry -> Shops
+ind_145,shop_125,Industry -> Shops
+ind_146,shop_125,Industry -> Shops
+ind_147,shop_131,Industry -> Shops
+ind_148,shop_124,Industry -> Shops
+ind_149,shop_133,Industry -> Shops
+ind_150,shop_128,Industry -> Shops
+ind_151,shop_91,Industry -> Shops
+ind_152,shop_138,Industry -> Shops
+ind_153,shop_133,Industry -> Shops
+ind_154,shop_133,Industry -> Shops
+ind_155,shop_133,Industry -> Shops
+ind_156,shop_136,Industry -> Shops
+ind_157,shop_136,Industry -> Shops
+ind_158,shop_183,Industry -> Shops
+ind_159,shop_140,Industry -> Shops
+ind_160,shop_140,Industry -> Shops
+ind_161,shop_185,Industry -> Shops
+ind_162,shop_185,Industry -> Shops
+ind_163,shop_185,Industry -> Shops
+ind_164,shop_185,Industry -> Shops
+ind_165,shop_185,Industry -> Shops
+ind_166,shop_185,Industry -> Shops
+ind_167,shop_185,Industry -> Shops
+ind_168,shop_185,Industry -> Shops
+ind_169,shop_185,Industry -> Shops
+ind_170,shop_161,Industry -> Shops
+ind_171,shop_166,Industry -> Shops
+ind_172,shop_85,Industry -> Shops
+ind_173,shop_85,Industry -> Shops
+ind_174,shop_85,Industry -> Shops
+ind_175,shop_187,Industry -> Shops
+ind_176,shop_187,Industry -> Shops
+ind_177,shop_187,Industry -> Shops
+ind_178,shop_161,Industry -> Shops
+ind_179,shop_187,Industry -> Shops
+ind_180,shop_187,Industry -> Shops
+ind_181,shop_161,Industry -> Shops
+ind_182,shop_161,Industry -> Shops
+ind_183,shop_161,Industry -> Shops
+ind_184,shop_161,Industry -> Shops
+ind_185,shop_161,Industry -> Shops
+ind_186,shop_165,Industry -> Shops
+ind_187,shop_160,Industry -> Shops
+ind_188,shop_203,Industry -> Shops
+ind_189,shop_85,Industry -> Shops
+ind_190,shop_85,Industry -> Shops
+ind_191,shop_85,Industry -> Shops
+ind_192,shop_85,Industry -> Shops
+ind_193,shop_85,Industry -> Shops
+ind_194,shop_85,Industry -> Shops
+ind_195,shop_168,Industry -> Shops
+ind_196,shop_169,Industry -> Shops
+ind_197,shop_169,Industry -> Shops
+ind_198,shop_138,Industry -> Shops
+ind_199,shop_123,Industry -> Shops
+ind_200,shop_177,Industry -> Shops
+ind_201,shop_168,Industry -> Shops
+ind_202,shop_140,Industry -> Shops
+ind_203,shop_172,Industry -> Shops
+ind_204,shop_171,Industry -> Shops
+ind_205,shop_171,Industry -> Shops
+ind_206,shop_185,Industry -> Shops
+ind_207,shop_185,Industry -> Shops
+ind_208,shop_185,Industry -> Shops
+ind_209,shop_185,Industry -> Shops
+ind_210,shop_185,Industry -> Shops
+ind_211,shop_186,Industry -> Shops
+ind_212,shop_211,Industry -> Shops
+ind_213,shop_174,Industry -> Shops
+ind_214,shop_174,Industry -> Shops
+ind_215,shop_178,Industry -> Shops
+ind_216,shop_178,Industry -> Shops
+ind_217,shop_178,Industry -> Shops
+ind_218,shop_178,Industry -> Shops
+ind_219,shop_178,Industry -> Shops
+ind_220,shop_176,Industry -> Shops
+ind_221,shop_176,Industry -> Shops
+ind_222,shop_2,Industry -> Shops
+ind_223,shop_2,Industry -> Shops
+ind_224,shop_179,Industry -> Shops
+ind_225,shop_180,Industry -> Shops
+ind_226,shop_178,Industry -> Shops
+ind_227,shop_180,Industry -> Shops
+ind_228,shop_180,Industry -> Shops
+ind_229,shop_180,Industry -> Shops
+ind_230,shop_177,Industry -> Shops
+ind_231,shop_177,Industry -> Shops
+ind_232,shop_178,Industry -> Shops
+ind_233,shop_178,Industry -> Shops
+ind_234,shop_178,Industry -> Shops
+ind_235,shop_178,Industry -> Shops
+ind_236,shop_178,Industry -> Shops
+ind_237,shop_175,Industry -> Shops
+ind_238,shop_179,Industry -> Shops
+ind_239,shop_175,Industry -> Shops
+ind_240,shop_179,Industry -> Shops
+ind_241,shop_178,Industry -> Shops
+ind_242,shop_2,Industry -> Shops
+ind_243,shop_178,Industry -> Shops
+ind_244,shop_180,Industry -> Shops
+ind_245,shop_180,Industry -> Shops
+ind_246,shop_175,Industry -> Shops
+ind_247,shop_177,Industry -> Shops
+ind_248,shop_2,Industry -> Shops
+ind_249,shop_180,Industry -> Shops
+ind_250,shop_180,Industry -> Shops
+ind_251,shop_177,Industry -> Shops
+ind_252,shop_177,Industry -> Shops
+ind_253,shop_180,Industry -> Shops
+ind_254,shop_180,Industry -> Shops
+ind_255,shop_180,Industry -> Shops
+ind_256,shop_27,Industry -> Shops
+ind_257,shop_124,Industry -> Shops
+ind_258,shop_73,Industry -> Shops
+ind_259,shop_182,Industry -> Shops
+ind_260,shop_58,Industry -> Shops
+ind_261,shop_40,Industry -> Shops
+ind_262,shop_59,Industry -> Shops
+ind_263,shop_54,Industry -> Shops
+ind_264,shop_72,Industry -> Shops
+ind_265,shop_72,Industry -> Shops
+ind_266,shop_27,Industry -> Shops
+ind_267,shop_170,Industry -> Shops
+ind_268,shop_170,Industry -> Shops
+ind_269,shop_172,Industry -> Shops
+ind_270,shop_191,Industry -> Shops
+ind_271,shop_191,Industry -> Shops
+ind_272,shop_191,Industry -> Shops
+ind_273,shop_206,Industry -> Shops
+ind_274,shop_194,Industry -> Shops
+ind_275,shop_191,Industry -> Shops
+ind_276,shop_191,Industry -> Shops
+ind_277,shop_213,Industry -> Shops
+ind_278,shop_194,Industry -> Shops
+ind_279,shop_194,Industry -> Shops
+ind_280,shop_194,Industry -> Shops
+ind_281,shop_209,Industry -> Shops
+ind_282,shop_202,Industry -> Shops
+ind_283,shop_202,Industry -> Shops
+ind_284,shop_202,Industry -> Shops
+ind_285,shop_202,Industry -> Shops
+ind_286,shop_202,Industry -> Shops
+ind_287,shop_202,Industry -> Shops
+ind_288,shop_202,Industry -> Shops
+ind_289,shop_202,Industry -> Shops
+ind_290,shop_187,Industry -> Shops
+ind_291,shop_187,Industry -> Shops
+ind_292,shop_202,Industry -> Shops
+ind_293,shop_202,Industry -> Shops
+ind_294,shop_202,Industry -> Shops
+ind_295,shop_202,Industry -> Shops
+ind_296,shop_202,Industry -> Shops
+ind_297,shop_202,Industry -> Shops
+ind_298,shop_202,Industry -> Shops
+ind_299,shop_202,Industry -> Shops
+ind_300,shop_204,Industry -> Shops
+ind_301,shop_204,Industry -> Shops
+ind_302,shop_206,Industry -> Shops
+ind_303,shop_199,Industry -> Shops
+ind_304,shop_202,Industry -> Shops
+ind_305,shop_202,Industry -> Shops
+ind_306,shop_202,Industry -> Shops
+ind_307,shop_202,Industry -> Shops
+ind_308,shop_202,Industry -> Shops
+ind_309,shop_202,Industry -> Shops
+ind_310,shop_202,Industry -> Shops
+ind_311,shop_202,Industry -> Shops
+ind_312,shop_202,Industry -> Shops
+ind_313,shop_202,Industry -> Shops
+ind_314,shop_209,Industry -> Shops
+ind_315,shop_211,Industry -> Shops
+ind_316,shop_211,Industry -> Shops
+ind_317,shop_211,Industry -> Shops
+ind_318,shop_210,Industry -> Shops
+ind_319,shop_186,Industry -> Shops
+ind_320,shop_211,Industry -> Shops
+ind_321,shop_211,Industry -> Shops
+ind_322,shop_211,Industry -> Shops
+ind_323,shop_209,Industry -> Shops
+ind_324,shop_210,Industry -> Shops
+ind_325,shop_214,Industry -> Shops
+ind_326,shop_213,Industry -> Shops
+ind_327,shop_191,Industry -> Shops
+ind_328,shop_202,Industry -> Shops
+ind_329,shop_209,Industry -> Shops
+ind_330,shop_209,Industry -> Shops
+ind_331,shop_209,Industry -> Shops
+ind_1,res_1670,Industry -> Residential
+ind_2,res_29,Industry -> Residential
+ind_3,res_288,Industry -> Residential
+ind_4,res_367,Industry -> Residential
+ind_5,res_77,Industry -> Residential
+ind_6,res_332,Industry -> Residential
+ind_7,res_308,Industry -> Residential
+ind_8,res_111,Industry -> Residential
+ind_9,res_32,Industry -> Residential
+ind_10,res_190,Industry -> Residential
+ind_11,res_238,Industry -> Residential
+ind_12,res_238,Industry -> Residential
+ind_13,res_267,Industry -> Residential
+ind_14,res_267,Industry -> Residential
+ind_15,res_273,Industry -> Residential
+ind_16,res_288,Industry -> Residential
+ind_17,res_297,Industry -> Residential
+ind_18,res_214,Industry -> Residential
+ind_19,res_333,Industry -> Residential
+ind_20,res_492,Industry -> Residential
+ind_21,res_562,Industry -> Residential
+ind_22,res_564,Industry -> Residential
+ind_23,res_561,Industry -> Residential
+ind_24,res_564,Industry -> Residential
+ind_25,res_646,Industry -> Residential
+ind_26,res_629,Industry -> Residential
+ind_27,res_813,Industry -> Residential
+ind_28,res_628,Industry -> Residential
+ind_29,res_629,Industry -> Residential
+ind_30,res_641,Industry -> Residential
+ind_31,res_646,Industry -> Residential
+ind_32,res_662,Industry -> Residential
+ind_33,res_698,Industry -> Residential
+ind_34,res_696,Industry -> Residential
+ind_35,res_707,Industry -> Residential
+ind_36,res_708,Industry -> Residential
+ind_37,res_708,Industry -> Residential
+ind_38,res_738,Industry -> Residential
+ind_39,res_606,Industry -> Residential
+ind_40,res_766,Industry -> Residential
+ind_41,res_816,Industry -> Residential
+ind_42,res_782,Industry -> Residential
+ind_43,res_781,Industry -> Residential
+ind_44,res_824,Industry -> Residential
+ind_45,res_830,Industry -> Residential
+ind_46,res_672,Industry -> Residential
+ind_47,res_850,Industry -> Residential
+ind_48,res_766,Industry -> Residential
+ind_49,res_803,Industry -> Residential
+ind_50,res_803,Industry -> Residential
+ind_51,res_888,Industry -> Residential
+ind_52,res_874,Industry -> Residential
+ind_53,res_1305,Industry -> Residential
+ind_54,res_944,Industry -> Residential
+ind_55,res_953,Industry -> Residential
+ind_56,res_955,Industry -> Residential
+ind_57,res_1039,Industry -> Residential
+ind_58,res_1058,Industry -> Residential
+ind_59,res_1061,Industry -> Residential
+ind_60,res_4307,Industry -> Residential
+ind_61,res_1307,Industry -> Residential
+ind_62,res_1165,Industry -> Residential
+ind_63,res_1169,Industry -> Residential
+ind_64,res_1047,Industry -> Residential
+ind_65,res_1106,Industry -> Residential
+ind_66,res_1297,Industry -> Residential
+ind_67,res_1429,Industry -> Residential
+ind_68,res_1646,Industry -> Residential
+ind_69,res_1429,Industry -> Residential
+ind_70,res_1491,Industry -> Residential
+ind_71,res_1591,Industry -> Residential
+ind_72,res_1614,Industry -> Residential
+ind_73,res_1429,Industry -> Residential
+ind_74,res_1678,Industry -> Residential
+ind_75,res_1752,Industry -> Residential
+ind_76,res_1752,Industry -> Residential
+ind_77,res_1709,Industry -> Residential
+ind_78,res_1710,Industry -> Residential
+ind_79,res_1712,Industry -> Residential
+ind_80,res_1716,Industry -> Residential
+ind_81,res_1716,Industry -> Residential
+ind_82,res_1741,Industry -> Residential
+ind_83,res_1718,Industry -> Residential
+ind_84,res_1734,Industry -> Residential
+ind_85,res_1712,Industry -> Residential
+ind_86,res_1775,Industry -> Residential
+ind_87,res_1781,Industry -> Residential
+ind_88,res_2125,Industry -> Residential
+ind_89,res_2125,Industry -> Residential
+ind_90,res_1793,Industry -> Residential
+ind_91,res_1794,Industry -> Residential
+ind_92,res_1889,Industry -> Residential
+ind_93,res_1819,Industry -> Residential
+ind_94,res_1859,Industry -> Residential
+ind_95,res_1855,Industry -> Residential
+ind_96,res_1874,Industry -> Residential
+ind_97,res_1873,Industry -> Residential
+ind_98,res_1894,Industry -> Residential
+ind_99,res_1894,Industry -> Residential
+ind_100,res_1900,Industry -> Residential
+ind_101,res_1901,Industry -> Residential
+ind_102,res_1901,Industry -> Residential
+ind_103,res_1924,Industry -> Residential
+ind_104,res_1902,Industry -> Residential
+ind_105,res_4356,Industry -> Residential
+ind_106,res_1902,Industry -> Residential
+ind_107,res_3745,Industry -> Residential
+ind_108,res_2211,Industry -> Residential
+ind_109,res_2232,Industry -> Residential
+ind_110,res_3800,Industry -> Residential
+ind_111,res_2350,Industry -> Residential
+ind_112,res_3928,Industry -> Residential
+ind_113,res_2367,Industry -> Residential
+ind_114,res_2371,Industry -> Residential
+ind_115,res_2371,Industry -> Residential
+ind_116,res_2371,Industry -> Residential
+ind_117,res_2373,Industry -> Residential
+ind_118,res_2350,Industry -> Residential
+ind_119,res_2350,Industry -> Residential
+ind_120,res_2373,Industry -> Residential
+ind_121,res_2373,Industry -> Residential
+ind_122,res_2350,Industry -> Residential
+ind_123,res_2373,Industry -> Residential
+ind_124,res_2373,Industry -> Residential
+ind_125,res_2373,Industry -> Residential
+ind_126,res_2373,Industry -> Residential
+ind_127,res_2374,Industry -> Residential
+ind_128,res_2374,Industry -> Residential
+ind_129,res_2350,Industry -> Residential
+ind_130,res_2374,Industry -> Residential
+ind_131,res_2374,Industry -> Residential
+ind_132,res_2395,Industry -> Residential
+ind_133,res_2404,Industry -> Residential
+ind_134,res_2402,Industry -> Residential
+ind_135,res_2404,Industry -> Residential
+ind_136,res_2410,Industry -> Residential
+ind_137,res_2426,Industry -> Residential
+ind_138,res_2419,Industry -> Residential
+ind_139,res_2400,Industry -> Residential
+ind_140,res_4323,Industry -> Residential
+ind_141,res_2387,Industry -> Residential
+ind_142,res_2672,Industry -> Residential
+ind_143,res_2350,Industry -> Residential
+ind_144,res_2371,Industry -> Residential
+ind_145,res_2717,Industry -> Residential
+ind_146,res_2725,Industry -> Residential
+ind_147,res_2738,Industry -> Residential
+ind_148,res_3072,Industry -> Residential
+ind_149,res_2766,Industry -> Residential
+ind_150,res_2849,Industry -> Residential
+ind_151,res_2447,Industry -> Residential
+ind_152,res_2860,Industry -> Residential
+ind_153,res_2891,Industry -> Residential
+ind_154,res_2892,Industry -> Residential
+ind_155,res_2892,Industry -> Residential
+ind_156,res_2999,Industry -> Residential
+ind_157,res_2998,Industry -> Residential
+ind_158,res_2341,Industry -> Residential
+ind_159,res_3222,Industry -> Residential
+ind_160,res_3223,Industry -> Residential
+ind_161,res_3213,Industry -> Residential
+ind_162,res_3277,Industry -> Residential
+ind_163,res_3277,Industry -> Residential
+ind_164,res_3277,Industry -> Residential
+ind_165,res_3282,Industry -> Residential
+ind_166,res_3282,Industry -> Residential
+ind_167,res_3283,Industry -> Residential
+ind_168,res_3307,Industry -> Residential
+ind_169,res_3268,Industry -> Residential
+ind_170,res_3429,Industry -> Residential
+ind_171,res_3755,Industry -> Residential
+ind_172,res_3898,Industry -> Residential
+ind_173,res_3909,Industry -> Residential
+ind_174,res_3907,Industry -> Residential
+ind_175,res_3807,Industry -> Residential
+ind_176,res_3807,Industry -> Residential
+ind_177,res_3805,Industry -> Residential
+ind_178,res_3839,Industry -> Residential
+ind_179,res_3805,Industry -> Residential
+ind_180,res_3841,Industry -> Residential
+ind_181,res_3841,Industry -> Residential
+ind_182,res_3841,Industry -> Residential
+ind_183,res_3841,Industry -> Residential
+ind_184,res_3841,Industry -> Residential
+ind_185,res_3841,Industry -> Residential
+ind_186,res_3871,Industry -> Residential
+ind_187,res_3917,Industry -> Residential
+ind_188,res_3892,Industry -> Residential
+ind_189,res_3898,Industry -> Residential
+ind_190,res_3898,Industry -> Residential
+ind_191,res_3898,Industry -> Residential
+ind_192,res_3906,Industry -> Residential
+ind_193,res_3907,Industry -> Residential
+ind_194,res_3908,Industry -> Residential
+ind_195,res_4026,Industry -> Residential
+ind_196,res_3975,Industry -> Residential
+ind_197,res_3975,Industry -> Residential
+ind_198,res_3977,Industry -> Residential
+ind_199,res_4005,Industry -> Residential
+ind_200,res_4014,Industry -> Residential
+ind_201,res_3993,Industry -> Residential
+ind_202,res_3177,Industry -> Residential
+ind_203,res_4420,Industry -> Residential
+ind_204,res_4042,Industry -> Residential
+ind_205,res_4042,Industry -> Residential
+ind_206,res_4052,Industry -> Residential
+ind_207,res_4063,Industry -> Residential
+ind_208,res_4046,Industry -> Residential
+ind_209,res_4063,Industry -> Residential
+ind_210,res_4063,Industry -> Residential
+ind_211,res_4843,Industry -> Residential
+ind_212,res_4843,Industry -> Residential
+ind_213,res_4083,Industry -> Residential
+ind_214,res_4083,Industry -> Residential
+ind_215,res_4084,Industry -> Residential
+ind_216,res_4084,Industry -> Residential
+ind_217,res_4084,Industry -> Residential
+ind_218,res_4084,Industry -> Residential
+ind_219,res_4084,Industry -> Residential
+ind_220,res_4084,Industry -> Residential
+ind_221,res_4084,Industry -> Residential
+ind_222,res_4085,Industry -> Residential
+ind_223,res_4085,Industry -> Residential
+ind_224,res_4085,Industry -> Residential
+ind_225,res_4097,Industry -> Residential
+ind_226,res_4091,Industry -> Residential
+ind_227,res_4091,Industry -> Residential
+ind_228,res_4097,Industry -> Residential
+ind_229,res_4091,Industry -> Residential
+ind_230,res_4088,Industry -> Residential
+ind_231,res_4088,Industry -> Residential
+ind_232,res_4084,Industry -> Residential
+ind_233,res_4091,Industry -> Residential
+ind_234,res_4091,Industry -> Residential
+ind_235,res_4091,Industry -> Residential
+ind_236,res_4091,Industry -> Residential
+ind_237,res_4085,Industry -> Residential
+ind_238,res_4085,Industry -> Residential
+ind_239,res_4085,Industry -> Residential
+ind_240,res_4085,Industry -> Residential
+ind_241,res_4090,Industry -> Residential
+ind_242,res_4085,Industry -> Residential
+ind_243,res_4091,Industry -> Residential
+ind_244,res_4091,Industry -> Residential
+ind_245,res_4091,Industry -> Residential
+ind_246,res_4085,Industry -> Residential
+ind_247,res_4088,Industry -> Residential
+ind_248,res_4093,Industry -> Residential
+ind_249,res_4097,Industry -> Residential
+ind_250,res_4157,Industry -> Residential
+ind_251,res_4191,Industry -> Residential
+ind_252,res_4132,Industry -> Residential
+ind_253,res_4153,Industry -> Residential
+ind_254,res_4169,Industry -> Residential
+ind_255,res_4150,Industry -> Residential
+ind_256,res_590,Industry -> Residential
+ind_257,res_2725,Industry -> Residential
+ind_258,res_2111,Industry -> Residential
+ind_259,res_629,Industry -> Residential
+ind_260,res_4301,Industry -> Residential
+ind_261,res_1427,Industry -> Residential
+ind_262,res_1817,Industry -> Residential
+ind_263,res_1707,Industry -> Residential
+ind_264,res_1902,Industry -> Residential
+ind_265,res_1903,Industry -> Residential
+ind_266,res_590,Industry -> Residential
+ind_267,res_4057,Industry -> Residential
+ind_268,res_4057,Industry -> Residential
+ind_269,res_4420,Industry -> Residential
+ind_270,res_4621,Industry -> Residential
+ind_271,res_4432,Industry -> Residential
+ind_272,res_4435,Industry -> Residential
+ind_273,res_4479,Industry -> Residential
+ind_274,res_4621,Industry -> Residential
+ind_275,res_4603,Industry -> Residential
+ind_276,res_4613,Industry -> Residential
+ind_277,res_4652,Industry -> Residential
+ind_278,res_4736,Industry -> Residential
+ind_279,res_4736,Industry -> Residential
+ind_280,res_4736,Industry -> Residential
+ind_281,res_4742,Industry -> Residential
+ind_282,res_4743,Industry -> Residential
+ind_283,res_4830,Industry -> Residential
+ind_284,res_4840,Industry -> Residential
+ind_285,res_4761,Industry -> Residential
+ind_286,res_4830,Industry -> Residential
+ind_287,res_4840,Industry -> Residential
+ind_288,res_4830,Industry -> Residential
+ind_289,res_4830,Industry -> Residential
+ind_290,res_4753,Industry -> Residential
+ind_291,res_4753,Industry -> Residential
+ind_292,res_4765,Industry -> Residential
+ind_293,res_4830,Industry -> Residential
+ind_294,res_4761,Industry -> Residential
+ind_295,res_4761,Industry -> Residential
+ind_296,res_4761,Industry -> Residential
+ind_297,res_4761,Industry -> Residential
+ind_298,res_4762,Industry -> Residential
+ind_299,res_4763,Industry -> Residential
+ind_300,res_4765,Industry -> Residential
+ind_301,res_4764,Industry -> Residential
+ind_302,res_4806,Industry -> Residential
+ind_303,res_4807,Industry -> Residential
+ind_304,res_4840,Industry -> Residential
+ind_305,res_4830,Industry -> Residential
+ind_306,res_4761,Industry -> Residential
+ind_307,res_4761,Industry -> Residential
+ind_308,res_4761,Industry -> Residential
+ind_309,res_4761,Industry -> Residential
+ind_310,res_4840,Industry -> Residential
+ind_311,res_4840,Industry -> Residential
+ind_312,res_4840,Industry -> Residential
+ind_313,res_4840,Industry -> Residential
+ind_314,res_4843,Industry -> Residential
+ind_315,res_4844,Industry -> Residential
+ind_316,res_4841,Industry -> Residential
+ind_317,res_4841,Industry -> Residential
+ind_318,res_4843,Industry -> Residential
+ind_319,res_4843,Industry -> Residential
+ind_320,res_4846,Industry -> Residential
+ind_321,res_4843,Industry -> Residential
+ind_322,res_4848,Industry -> Residential
+ind_323,res_4742,Industry -> Residential
+ind_324,res_4843,Industry -> Residential
+ind_325,res_4884,Industry -> Residential
+ind_326,res_4983,Industry -> Residential
+ind_327,res_4435,Industry -> Residential
+ind_328,res_4830,Industry -> Residential
+ind_329,res_4742,Industry -> Residential
+ind_330,res_4742,Industry -> Residential
+ind_331,res_4843,Industry -> Residential
+shop_1,res_3802,Shops -> Residential
+shop_2,res_4085,Shops -> Residential
+shop_3,res_680,Shops -> Residential
+shop_4,res_3868,Shops -> Residential
+shop_5,res_288,Shops -> Residential
+shop_6,res_103,Shops -> Residential
+shop_7,res_124,Shops -> Residential
+shop_8,res_124,Shops -> Residential
+shop_9,res_124,Shops -> Residential
+shop_10,res_308,Shops -> Residential
+shop_11,res_356,Shops -> Residential
+shop_12,res_363,Shops -> Residential
+shop_13,res_163,Shops -> Residential
+shop_14,res_190,Shops -> Residential
+shop_15,res_190,Shops -> Residential
+shop_16,res_276,Shops -> Residential
+shop_17,res_354,Shops -> Residential
+shop_18,res_299,Shops -> Residential
+shop_19,res_4278,Shops -> Residential
+shop_20,res_413,Shops -> Residential
+shop_21,res_420,Shops -> Residential
+shop_22,res_476,Shops -> Residential
+shop_23,res_563,Shops -> Residential
+shop_24,res_562,Shops -> Residential
+shop_25,res_654,Shops -> Residential
+shop_26,res_623,Shops -> Residential
+shop_27,res_845,Shops -> Residential
+shop_28,res_658,Shops -> Residential
+shop_29,res_680,Shops -> Residential
+shop_30,res_589,Shops -> Residential
+shop_31,res_690,Shops -> Residential
+shop_32,res_703,Shops -> Residential
+shop_33,res_762,Shops -> Residential
+shop_34,res_803,Shops -> Residential
+shop_35,res_857,Shops -> Residential
+shop_36,res_4424,Shops -> Residential
+shop_37,res_1201,Shops -> Residential
+shop_38,res_1294,Shops -> Residential
+shop_39,res_1175,Shops -> Residential
+shop_40,res_1086,Shops -> Residential
+shop_41,res_1093,Shops -> Residential
+shop_42,res_1176,Shops -> Residential
+shop_43,res_1184,Shops -> Residential
+shop_44,res_1240,Shops -> Residential
+shop_45,res_1254,Shops -> Residential
+shop_46,res_1294,Shops -> Residential
+shop_47,res_1001,Shops -> Residential
+shop_48,res_4307,Shops -> Residential
+shop_49,res_1600,Shops -> Residential
+shop_50,res_1490,Shops -> Residential
+shop_51,res_1521,Shops -> Residential
+shop_52,res_1535,Shops -> Residential
+shop_53,res_1594,Shops -> Residential
+shop_54,res_1670,Shops -> Residential
+shop_55,res_1794,Shops -> Residential
+shop_56,res_1794,Shops -> Residential
+shop_57,res_1794,Shops -> Residential
+shop_58,res_1794,Shops -> Residential
+shop_59,res_1852,Shops -> Residential
+shop_60,res_1877,Shops -> Residential
+shop_61,res_1881,Shops -> Residential
+shop_62,res_2116,Shops -> Residential
+shop_63,res_1940,Shops -> Residential
+shop_64,res_2145,Shops -> Residential
+shop_65,res_1990,Shops -> Residential
+shop_66,res_2031,Shops -> Residential
+shop_67,res_2031,Shops -> Residential
+shop_68,res_2072,Shops -> Residential
+shop_69,res_2054,Shops -> Residential
+shop_70,res_2093,Shops -> Residential
+shop_71,res_2094,Shops -> Residential
+shop_72,res_2105,Shops -> Residential
+shop_73,res_1877,Shops -> Residential
+shop_74,res_1781,Shops -> Residential
+shop_75,res_1763,Shops -> Residential
+shop_76,res_2138,Shops -> Residential
+shop_77,res_2617,Shops -> Residential
+shop_78,res_2617,Shops -> Residential
+shop_79,res_2511,Shops -> Residential
+shop_80,res_4303,Shops -> Residential
+shop_81,res_4303,Shops -> Residential
+shop_82,res_4336,Shops -> Residential
+shop_83,res_2274,Shops -> Residential
+shop_84,res_2295,Shops -> Residential
+shop_85,res_2346,Shops -> Residential
+shop_86,res_2352,Shops -> Residential
+shop_87,res_2400,Shops -> Residential
+shop_88,res_2408,Shops -> Residential
+shop_89,res_2439,Shops -> Residential
+shop_90,res_2411,Shops -> Residential
+shop_91,res_2433,Shops -> Residential
+shop_92,res_2459,Shops -> Residential
+shop_93,res_2455,Shops -> Residential
+shop_94,res_1227,Shops -> Residential
+shop_95,res_2478,Shops -> Residential
+shop_96,res_2464,Shops -> Residential
+shop_97,res_2470,Shops -> Residential
+shop_98,res_2509,Shops -> Residential
+shop_99,res_2174,Shops -> Residential
+shop_100,res_2636,Shops -> Residential
+shop_101,res_2159,Shops -> Residential
+shop_102,res_2159,Shops -> Residential
+shop_103,res_2527,Shops -> Residential
+shop_104,res_2526,Shops -> Residential
+shop_105,res_2527,Shops -> Residential
+shop_106,res_2528,Shops -> Residential
+shop_107,res_2529,Shops -> Residential
+shop_108,res_2533,Shops -> Residential
+shop_109,res_2536,Shops -> Residential
+shop_110,res_2542,Shops -> Residential
+shop_111,res_2561,Shops -> Residential
+shop_112,res_2575,Shops -> Residential
+shop_113,res_2163,Shops -> Residential
+shop_114,res_2616,Shops -> Residential
+shop_115,res_2628,Shops -> Residential
+shop_116,res_2624,Shops -> Residential
+shop_117,res_1224,Shops -> Residential
+shop_118,res_2617,Shops -> Residential
+shop_119,res_2265,Shops -> Residential
+shop_120,res_2586,Shops -> Residential
+shop_121,res_2644,Shops -> Residential
+shop_122,res_2398,Shops -> Residential
+shop_123,res_3997,Shops -> Residential
+shop_124,res_2815,Shops -> Residential
+shop_125,res_2780,Shops -> Residential
+shop_126,res_2823,Shops -> Residential
+shop_127,res_2825,Shops -> Residential
+shop_128,res_3058,Shops -> Residential
+shop_129,res_2960,Shops -> Residential
+shop_130,res_2968,Shops -> Residential
+shop_131,res_2969,Shops -> Residential
+shop_132,res_2971,Shops -> Residential
+shop_133,res_2972,Shops -> Residential
+shop_134,res_2971,Shops -> Residential
+shop_135,res_2977,Shops -> Residential
+shop_136,res_2999,Shops -> Residential
+shop_137,res_2835,Shops -> Residential
+shop_138,res_2436,Shops -> Residential
+shop_139,res_3121,Shops -> Residential
+shop_140,res_3178,Shops -> Residential
+shop_141,res_3333,Shops -> Residential
+shop_142,res_3471,Shops -> Residential
+shop_143,res_3474,Shops -> Residential
+shop_144,res_3482,Shops -> Residential
+shop_145,res_3325,Shops -> Residential
+shop_146,res_3514,Shops -> Residential
+shop_147,res_3565,Shops -> Residential
+shop_148,res_3568,Shops -> Residential
+shop_149,res_3602,Shops -> Residential
+shop_150,res_3572,Shops -> Residential
+shop_151,res_3596,Shops -> Residential
+shop_152,res_3603,Shops -> Residential
+shop_153,res_3612,Shops -> Residential
+shop_154,res_3698,Shops -> Residential
+shop_155,res_3692,Shops -> Residential
+shop_156,res_3692,Shops -> Residential
+shop_157,res_3904,Shops -> Residential
+shop_158,res_3904,Shops -> Residential
+shop_159,res_3773,Shops -> Residential
+shop_160,res_3917,Shops -> Residential
+shop_161,res_3813,Shops -> Residential
+shop_162,res_3835,Shops -> Residential
+shop_163,res_3809,Shops -> Residential
+shop_164,res_3809,Shops -> Residential
+shop_165,res_3872,Shops -> Residential
+shop_166,res_3916,Shops -> Residential
+shop_167,res_3775,Shops -> Residential
+shop_168,res_3993,Shops -> Residential
+shop_169,res_3963,Shops -> Residential
+shop_170,res_4038,Shops -> Residential
+shop_171,res_4059,Shops -> Residential
+shop_172,res_4058,Shops -> Residential
+shop_173,res_4083,Shops -> Residential
+shop_174,res_4083,Shops -> Residential
+shop_175,res_4085,Shops -> Residential
+shop_176,res_4084,Shops -> Residential
+shop_177,res_4089,Shops -> Residential
+shop_178,res_4091,Shops -> Residential
+shop_179,res_4085,Shops -> Residential
+shop_180,res_4091,Shops -> Residential
+shop_181,res_1177,Shops -> Residential
+shop_182,res_830,Shops -> Residential
+shop_183,res_4322,Shops -> Residential
+shop_184,res_2265,Shops -> Residential
+shop_185,res_3213,Shops -> Residential
+shop_186,res_4843,Shops -> Residential
+shop_187,res_4448,Shops -> Residential
+shop_188,res_4494,Shops -> Residential
+shop_189,res_4578,Shops -> Residential
+shop_190,res_4582,Shops -> Residential
+shop_191,res_4603,Shops -> Residential
+shop_192,res_4657,Shops -> Residential
+shop_193,res_4676,Shops -> Residential
+shop_194,res_4736,Shops -> Residential
+shop_195,res_4683,Shops -> Residential
+shop_196,res_4572,Shops -> Residential
+shop_197,res_4695,Shops -> Residential
+shop_198,res_4705,Shops -> Residential
+shop_199,res_4838,Shops -> Residential
+shop_200,res_4838,Shops -> Residential
+shop_201,res_4838,Shops -> Residential
+shop_202,res_4762,Shops -> Residential
+shop_203,res_4067,Shops -> Residential
+shop_204,res_4067,Shops -> Residential
+shop_205,res_4770,Shops -> Residential
+shop_206,res_4794,Shops -> Residential
+shop_207,res_4453,Shops -> Residential
+shop_208,res_4838,Shops -> Residential
+shop_209,res_4843,Shops -> Residential
+shop_210,res_4843,Shops -> Residential
+shop_211,res_4843,Shops -> Residential
+shop_212,res_4857,Shops -> Residential
+shop_213,res_4885,Shops -> Residential
+shop_214,res_4876,Shops -> Residential
+hea_1,res_311,Health -> Residential
+hea_2,res_45,Health -> Residential
+hea_3,res_46,Health -> Residential
+hea_4,res_338,Health -> Residential
+hea_5,res_378,Health -> Residential
+hea_6,res_234,Health -> Residential
+hea_7,res_354,Health -> Residential
+hea_8,res_372,Health -> Residential
+hea_9,res_4278,Health -> Residential
+hea_10,res_410,Health -> Residential
+hea_11,res_464,Health -> Residential
+hea_12,res_676,Health -> Residential
+hea_13,res_685,Health -> Residential
+hea_14,res_850,Health -> Residential
+hea_15,res_850,Health -> Residential
+hea_16,res_1277,Health -> Residential
+hea_17,res_902,Health -> Residential
+hea_18,res_1032,Health -> Residential
+hea_19,res_1035,Health -> Residential
+hea_20,res_1141,Health -> Residential
+hea_21,res_1162,Health -> Residential
+hea_22,res_1162,Health -> Residential
+hea_23,res_1162,Health -> Residential
+hea_24,res_1238,Health -> Residential
+hea_25,res_1219,Health -> Residential
+hea_26,res_1219,Health -> Residential
+hea_27,res_1225,Health -> Residential
+hea_28,res_1412,Health -> Residential
+hea_29,res_1549,Health -> Residential
+hea_30,res_1619,Health -> Residential
+hea_31,res_1709,Health -> Residential
+hea_32,res_1778,Health -> Residential
+hea_33,res_1820,Health -> Residential
+hea_34,res_1838,Health -> Residential
+hea_35,res_1883,Health -> Residential
+hea_36,res_2028,Health -> Residential
+hea_37,res_2156,Health -> Residential
+hea_38,res_2158,Health -> Residential
+hea_39,res_2206,Health -> Residential
+hea_40,res_4275,Health -> Residential
+hea_41,res_4418,Health -> Residential
+hea_42,res_2264,Health -> Residential
+hea_43,res_2276,Health -> Residential
+hea_44,res_2285,Health -> Residential
+hea_45,res_2315,Health -> Residential
+hea_46,res_2346,Health -> Residential
+hea_47,res_2390,Health -> Residential
+hea_48,res_2456,Health -> Residential
+hea_49,res_2465,Health -> Residential
+hea_50,res_2482,Health -> Residential
+hea_51,res_2497,Health -> Residential
+hea_52,res_2612,Health -> Residential
+hea_53,res_2772,Health -> Residential
+hea_54,res_2778,Health -> Residential
+hea_55,res_2812,Health -> Residential
+hea_56,res_2977,Health -> Residential
+hea_57,res_2999,Health -> Residential
+hea_58,res_3082,Health -> Residential
+hea_59,res_3147,Health -> Residential
+hea_60,res_3272,Health -> Residential
+hea_61,res_3503,Health -> Residential
+hea_62,res_3733,Health -> Residential
+hea_63,res_3733,Health -> Residential
+hea_64,res_3748,Health -> Residential
+hea_65,res_3801,Health -> Residential
+hea_66,res_3921,Health -> Residential
+hea_67,res_4026,Health -> Residential
+hea_68,res_4007,Health -> Residential
+hea_69,res_4083,Health -> Residential
+hea_70,res_4196,Health -> Residential
+hea_71,res_4244,Health -> Residential
+hea_72,res_4274,Health -> Residential
+hea_73,res_2499,Health -> Residential
+hea_74,res_2137,Health -> Residential
+hea_75,res_2218,Health -> Residential
+hea_76,res_4444,Health -> Residential
+hea_77,res_4542,Health -> Residential
+hea_78,res_4603,Health -> Residential
+hea_79,res_4656,Health -> Residential
+hea_80,res_4589,Health -> Residential
+edu_1,res_973,Education -> Residential
+edu_2,res_27,Education -> Residential
+edu_3,res_46,Education -> Residential
+edu_4,res_66,Education -> Residential
+edu_5,res_229,Education -> Residential
+edu_6,res_372,Education -> Residential
+edu_7,res_372,Education -> Residential
+edu_8,res_48,Education -> Residential
+edu_9,res_122,Education -> Residential
+edu_10,res_349,Education -> Residential
+edu_11,res_555,Education -> Residential
+edu_12,res_555,Education -> Residential
+edu_13,res_557,Education -> Residential
+edu_14,res_557,Education -> Residential
+edu_15,res_973,Education -> Residential
+edu_16,res_629,Education -> Residential
+edu_17,res_629,Education -> Residential
+edu_18,res_300,Education -> Residential
+edu_19,res_300,Education -> Residential
+edu_20,res_618,Education -> Residential
+edu_21,res_973,Education -> Residential
+edu_22,res_973,Education -> Residential
+edu_23,res_973,Education -> Residential
+edu_24,res_679,Education -> Residential
+edu_25,res_611,Education -> Residential
+edu_26,res_829,Education -> Residential
+edu_27,res_1277,Education -> Residential
+edu_28,res_1029,Education -> Residential
+edu_29,res_940,Education -> Residential
+edu_30,res_1024,Education -> Residential
+edu_31,res_1034,Education -> Residential
+edu_32,res_1029,Education -> Residential
+edu_33,res_1052,Education -> Residential
+edu_34,res_1068,Education -> Residential
+edu_35,res_1301,Education -> Residential
+edu_36,res_1301,Education -> Residential
+edu_37,res_1073,Education -> Residential
+edu_38,res_1103,Education -> Residential
+edu_39,res_1124,Education -> Residential
+edu_40,res_1104,Education -> Residential
+edu_41,res_986,Education -> Residential
+edu_42,res_1264,Education -> Residential
+edu_43,res_1217,Education -> Residential
+edu_44,res_1196,Education -> Residential
+edu_45,res_1208,Education -> Residential
+edu_46,res_1264,Education -> Residential
+edu_47,res_1373,Education -> Residential
+edu_48,res_1319,Education -> Residential
+edu_49,res_1582,Education -> Residential
+edu_50,res_1320,Education -> Residential
+edu_51,res_1321,Education -> Residential
+edu_52,res_1323,Education -> Residential
+edu_53,res_1336,Education -> Residential
+edu_54,res_1375,Education -> Residential
+edu_55,res_1527,Education -> Residential
+edu_56,res_1598,Education -> Residential
+edu_57,res_1605,Education -> Residential
+edu_58,res_4285,Education -> Residential
+edu_59,res_1513,Education -> Residential
+edu_60,res_1658,Education -> Residential
+edu_61,res_1988,Education -> Residential
+edu_62,res_1793,Education -> Residential
+edu_63,res_1795,Education -> Residential
+edu_64,res_1860,Education -> Residential
+edu_65,res_1954,Education -> Residential
+edu_66,res_1765,Education -> Residential
+edu_67,res_1793,Education -> Residential
+edu_68,res_1835,Education -> Residential
+edu_69,res_1881,Education -> Residential
+edu_70,res_1881,Education -> Residential
+edu_71,res_1713,Education -> Residential
+edu_72,res_1713,Education -> Residential
+edu_73,res_1763,Education -> Residential
+edu_74,res_1952,Education -> Residential
+edu_75,res_2463,Education -> Residential
+edu_76,res_2163,Education -> Residential
+edu_77,res_2585,Education -> Residential
+edu_78,res_2642,Education -> Residential
+edu_79,res_2206,Education -> Residential
+edu_80,res_2203,Education -> Residential
+edu_81,res_1128,Education -> Residential
+edu_82,res_1141,Education -> Residential
+edu_83,res_2409,Education -> Residential
+edu_84,res_2590,Education -> Residential
+edu_85,res_2400,Education -> Residential
+edu_86,res_2956,Education -> Residential
+edu_87,res_3053,Education -> Residential
+edu_88,res_2927,Education -> Residential
+edu_89,res_2740,Education -> Residential
+edu_90,res_2838,Education -> Residential
+edu_91,res_2973,Education -> Residential
+edu_92,res_2955,Education -> Residential
+edu_93,res_3192,Education -> Residential
+edu_94,res_3127,Education -> Residential
+edu_95,res_3124,Education -> Residential
+edu_96,res_3316,Education -> Residential
+edu_97,res_3149,Education -> Residential
+edu_98,res_3113,Education -> Residential
+edu_99,res_3113,Education -> Residential
+edu_100,res_3149,Education -> Residential
+edu_101,res_3113,Education -> Residential
+edu_102,res_3172,Education -> Residential
+edu_103,res_3184,Education -> Residential
+edu_104,res_3425,Education -> Residential
+edu_105,res_3538,Education -> Residential
+edu_106,res_3393,Education -> Residential
+edu_107,res_3547,Education -> Residential
+edu_108,res_3639,Education -> Residential
+edu_109,res_3762,Education -> Residential
+edu_110,res_4226,Education -> Residential
+edu_111,res_4118,Education -> Residential
+edu_112,res_4250,Education -> Residential
+edu_113,res_4374,Education -> Residential
+edu_114,res_1850,Education -> Residential
+edu_115,res_2538,Education -> Residential
+edu_116,res_4410,Education -> Residential
+edu_117,res_1128,Education -> Residential
+edu_118,res_4411,Education -> Residential
+edu_119,res_2312,Education -> Residential
+edu_120,res_2955,Education -> Residential
+edu_121,res_2954,Education -> Residential
+edu_122,res_4439,Education -> Residential
+edu_123,res_4516,Education -> Residential
+edu_124,res_4636,Education -> Residential
+edu_125,res_4638,Education -> Residential
+edu_126,res_4478,Education -> Residential
+edu_127,res_4516,Education -> Residential
+edu_128,res_4664,Education -> Residential
+edu_129,res_4840,Education -> Residential
+edu_130,res_4840,Education -> Residential
+edu_131,res_4826,Education -> Residential
+edu_132,res_4838,Education -> Residential
+edu_133,res_4838,Education -> Residential
+edu_134,res_4969,Education -> Residential
+edu_135,res_4939,Education -> Residential
+edu_136,res_4954,Education -> Residential
+lei_1,res_21,Leisure -> Residential
+lei_2,res_3613,Leisure -> Residential
+lei_3,res_1277,Leisure -> Residential
+lei_4,res_1482,Leisure -> Residential
+lei_5,res_4276,Leisure -> Residential
+lei_6,res_2863,Leisure -> Residential
+lei_7,res_4744,Leisure -> Residential
+lei_8,res_21,Leisure -> Residential
+lei_9,res_21,Leisure -> Residential
+lei_10,res_21,Leisure -> Residential
+lei_11,res_485,Leisure -> Residential
+lei_12,res_24,Leisure -> Residential
+lei_13,res_485,Leisure -> Residential
+lei_14,res_485,Leisure -> Residential
+lei_15,res_485,Leisure -> Residential
+lei_16,res_229,Leisure -> Residential
+lei_17,res_122,Leisure -> Residential
+lei_18,res_339,Leisure -> Residential
+lei_19,res_338,Leisure -> Residential
+lei_20,res_4280,Leisure -> Residential
+lei_21,res_282,Leisure -> Residential
+lei_22,res_320,Leisure -> Residential
+lei_23,res_136,Leisure -> Residential
+lei_24,res_421,Leisure -> Residential
+lei_25,res_451,Leisure -> Residential
+lei_26,res_1303,Leisure -> Residential
+lei_27,res_555,Leisure -> Residential
+lei_28,res_517,Leisure -> Residential
+lei_29,res_594,Leisure -> Residential
+lei_30,res_667,Leisure -> Residential
+lei_31,res_676,Leisure -> Residential
+lei_32,res_777,Leisure -> Residential
+lei_33,res_811,Leisure -> Residential
+lei_34,res_850,Leisure -> Residential
+lei_35,res_1280,Leisure -> Residential
+lei_36,res_940,Leisure -> Residential
+lei_37,res_926,Leisure -> Residential
+lei_38,res_956,Leisure -> Residential
+lei_39,res_1077,Leisure -> Residential
+lei_40,res_1113,Leisure -> Residential
+lei_41,res_1115,Leisure -> Residential
+lei_42,res_1104,Leisure -> Residential
+lei_43,res_1133,Leisure -> Residential
+lei_44,res_1133,Leisure -> Residential
+lei_45,res_1136,Leisure -> Residential
+lei_46,res_1143,Leisure -> Residential
+lei_47,res_1148,Leisure -> Residential
+lei_48,res_1317,Leisure -> Residential
+lei_49,res_1165,Leisure -> Residential
+lei_50,res_1173,Leisure -> Residential
+lei_51,res_1217,Leisure -> Residential
+lei_52,res_1282,Leisure -> Residential
+lei_53,res_1373,Leisure -> Residential
+lei_54,res_1319,Leisure -> Residential
+lei_55,res_1321,Leisure -> Residential
+lei_56,res_1356,Leisure -> Residential
+lei_57,res_1383,Leisure -> Residential
+lei_58,res_1393,Leisure -> Residential
+lei_59,res_1433,Leisure -> Residential
+lei_60,res_1537,Leisure -> Residential
+lei_61,res_1319,Leisure -> Residential
+lei_62,res_1597,Leisure -> Residential
+lei_63,res_1631,Leisure -> Residential
+lei_64,res_4313,Leisure -> Residential
+lei_65,res_1655,Leisure -> Residential
+lei_66,res_1793,Leisure -> Residential
+lei_67,res_1795,Leisure -> Residential
+lei_68,res_1795,Leisure -> Residential
+lei_69,res_1988,Leisure -> Residential
+lei_70,res_1770,Leisure -> Residential
+lei_71,res_1781,Leisure -> Residential
+lei_72,res_1819,Leisure -> Residential
+lei_73,res_1833,Leisure -> Residential
+lei_74,res_1713,Leisure -> Residential
+lei_75,res_1713,Leisure -> Residential
+lei_76,res_2020,Leisure -> Residential
+lei_77,res_2038,Leisure -> Residential
+lei_78,res_2585,Leisure -> Residential
+lei_79,res_2168,Leisure -> Residential
+lei_80,res_2186,Leisure -> Residential
+lei_81,res_2206,Leisure -> Residential
+lei_82,res_4341,Leisure -> Residential
+lei_83,res_2244,Leisure -> Residential
+lei_84,res_2314,Leisure -> Residential
+lei_85,res_2340,Leisure -> Residential
+lei_86,res_2376,Leisure -> Residential
+lei_87,res_2392,Leisure -> Residential
+lei_88,res_2470,Leisure -> Residential
+lei_89,res_1123,Leisure -> Residential
+lei_90,res_2412,Leisure -> Residential
+lei_91,res_2379,Leisure -> Residential
+lei_92,res_2975,Leisure -> Residential
+lei_93,res_2956,Leisure -> Residential
+lei_94,res_1375,Leisure -> Residential
+lei_95,res_2956,Leisure -> Residential
+lei_96,res_2966,Leisure -> Residential
+lei_97,res_2974,Leisure -> Residential
+lei_98,res_2983,Leisure -> Residential
+lei_99,res_2833,Leisure -> Residential
+lei_100,res_4320,Leisure -> Residential
+lei_101,res_2868,Leisure -> Residential
+lei_102,res_3192,Leisure -> Residential
+lei_103,res_3316,Leisure -> Residential
+lei_104,res_3316,Leisure -> Residential
+lei_105,res_3127,Leisure -> Residential
+lei_106,res_3199,Leisure -> Residential
+lei_107,res_3304,Leisure -> Residential
+lei_108,res_3277,Leisure -> Residential
+lei_109,res_3425,Leisure -> Residential
+lei_110,res_3538,Leisure -> Residential
+lei_111,res_3367,Leisure -> Residential
+lei_112,res_3528,Leisure -> Residential
+lei_113,res_3554,Leisure -> Residential
+lei_114,res_3613,Leisure -> Residential
+lei_115,res_3649,Leisure -> Residential
+lei_116,res_3550,Leisure -> Residential
+lei_117,res_3733,Leisure -> Residential
+lei_118,res_3733,Leisure -> Residential
+lei_119,res_3762,Leisure -> Residential
+lei_120,res_3754,Leisure -> Residential
+lei_121,res_3874,Leisure -> Residential
+lei_122,res_3964,Leisure -> Residential
+lei_123,res_4006,Leisure -> Residential
+lei_124,res_4092,Leisure -> Residential
+lei_125,res_4087,Leisure -> Residential
+lei_126,res_4092,Leisure -> Residential
+lei_127,res_4183,Leisure -> Residential
+lei_128,res_4244,Leisure -> Residential
+lei_129,res_4249,Leisure -> Residential
+lei_130,res_4226,Leisure -> Residential
+lei_131,res_4095,Leisure -> Residential
+lei_132,res_4093,Leisure -> Residential
+lei_133,res_3907,Leisure -> Residential
+lei_134,res_485,Leisure -> Residential
+lei_135,res_3991,Leisure -> Residential
+lei_136,res_4636,Leisure -> Residential
+lei_137,res_4457,Leisure -> Residential
+lei_138,res_4741,Leisure -> Residential
+lei_139,res_4741,Leisure -> Residential
+lei_140,res_4589,Leisure -> Residential
+lei_141,res_4737,Leisure -> Residential
+lei_142,res_4500,Leisure -> Residential
+lei_143,res_4671,Leisure -> Residential
+lei_144,res_4826,Leisure -> Residential
+lei_145,res_4744,Leisure -> Residential
+lei_146,res_4969,Leisure -> Residential
+pub_1,res_1127,Public Office -> Residential
+pub_2,res_442,Public Office -> Residential
+pub_3,res_708,Public Office -> Residential
+pub_4,res_676,Public Office -> Residential
+pub_5,res_888,Public Office -> Residential
+pub_6,res_1077,Public Office -> Residential
+pub_7,res_1538,Public Office -> Residential
+pub_8,res_1714,Public Office -> Residential
+pub_9,res_1883,Public Office -> Residential
+pub_10,res_2033,Public Office -> Residential
+pub_11,res_2463,Public Office -> Residential
+pub_12,res_2353,Public Office -> Residential
+pub_13,res_2270,Public Office -> Residential
+pub_14,res_2534,Public Office -> Residential
+pub_15,res_2585,Public Office -> Residential
+pub_16,res_2353,Public Office -> Residential
+pub_17,res_2985,Public Office -> Residential
+pub_18,res_3168,Public Office -> Residential
+pub_19,res_3783,Public Office -> Residential
+pub_20,res_2204,Public Office -> Residential
+pub_21,res_3917,Public Office -> Residential
+pub_22,res_3803,Public Office -> Residential
+pub_23,res_4010,Public Office -> Residential
+pub_24,res_941,Public Office -> Residential
+pub_25,res_3907,Public Office -> Residential
+pub_26,res_2218,Public Office -> Residential
+pub_27,res_4446,Public Office -> Residential
+pub_28,res_4809,Public Office -> Residential
+sen_cnt_1,res_21,Senior Center -> Residential
+sen_cnt_2,res_709,Senior Center -> Residential
+sen_cnt_3,res_1309,Senior Center -> Residential
+sen_cnt_4,res_1356,Senior Center -> Residential
+sen_cnt_5,res_3550,Senior Center -> Residential
+sen_cnt_6,res_3733,Senior Center -> Residential
+dis_cnt_1,res_338,Center for Disability -> Residential
+dis_cnt_2,res_916,Center for Disability -> Residential
+dis_cnt_3,res_1317,Center for Disability -> Residential
+dis_cnt_4,res_1162,Center for Disability -> Residential
+dis_cnt_5,res_1162,Center for Disability -> Residential
+dis_cnt_6,res_3755,Center for Disability -> Residential
+dis_cnt_1,res_338,NA -> NA
+dis_cnt_2,res_916,NA -> NA
+dis_cnt_3,res_1317,NA -> NA
+dis_cnt_4,res_1162,NA -> NA
+dis_cnt_5,res_1162,NA -> NA
+dis_cnt_6,res_3755,NA -> NA
